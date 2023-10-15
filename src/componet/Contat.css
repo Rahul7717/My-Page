@@ -1,0 +1,40 @@
+.icons .social-icons:hover {
+    transform: none;
+    box-shadow: none;
+}
+
+.git{
+    margin-top: 10px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.navs .icons {
+
+display: grid;
+}
+.social-icons{
+    margin: 40px;
+}
+#lines{
+    border-radius: 10rem;
+    padding: 2px;
+    background-color: black;
+    border: 1px solid black;
+    box-shadow: 5px 8px 15px 2px rgba(0, 0, 0, 0.849);
+}
+@media screen and (max-width:749px){
+    .navs{
+        margin-left: 10px;
+   
+    }
+}
+@media screen and (min-width:950px){
+    .navs{
+        margin-left:-20px;
+   
+    }
+}
