@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/My-Page/static/css/main.35609d22.css",
+    "main.js": "/My-Page/static/js/main.91499b0a.js",
+    "static/js/787.6606bfd5.chunk.js": "/My-Page/static/js/787.6606bfd5.chunk.js",
+    "static/media/react.png": "/My-Page/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/gitt.png": "/My-Page/static/media/gitt.8fa70958960c0b9085e8.png",
+    "static/media/sqql.png": "/My-Page/static/media/sqql.167c88550478e6f0f85c.png",
+    "static/media/tailwinds.png": "/My-Page/static/media/tailwinds.3549d9e451d7abb96934.png",
+    "static/media/linked.png": "/My-Page/static/media/linked.6ac77341c7a1f1743ba6.png",
+    "static/media/css.png": "/My-Page/static/media/css.ea63097553654f07d95c.png",
+    "static/media/bootstrap.png": "/My-Page/static/media/bootstrap.c5b2fc44d37fd3864947.png",
+    "static/media/html.png": "/My-Page/static/media/html.c7142895f204d7aa8ef8.png",
+    "static/media/javascript.png": "/My-Page/static/media/javascript.a2a16f087e18d50f3d99.png",
+    "static/media/insta.png": "/My-Page/static/media/insta.79535458a8a6d88f81d4.png",
+    "static/media/ppython.png": "/My-Page/static/media/ppython.f7f12e1bf59e577656a2.png",
+    "index.html": "/My-Page/index.html",
+    "main.35609d22.css.map": "/My-Page/static/css/main.35609d22.css.map",
+    "main.91499b0a.js.map": "/My-Page/static/js/main.91499b0a.js.map",
+    "787.6606bfd5.chunk.js.map": "/My-Page/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35609d22.css",
+    "static/js/main.91499b0a.js"
+  ]
+}
